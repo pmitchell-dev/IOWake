@@ -1,0 +1,6 @@
+{
+  "name": "IOWake",
+  "description": "A premium math-challenge alarm clock for heavy sleepers, enforcing cognitive wake-up via customizable math puzzles and strict anti-snooze rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

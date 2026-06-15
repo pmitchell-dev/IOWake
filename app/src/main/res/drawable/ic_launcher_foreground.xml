@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Left bell arc -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 36,36 C 30,30 38,18 46,24" />
+
+    <!-- Right bell arc -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 72,36 C 78,30 70,18 62,24" />
+
+    <!-- Left alarm stand leg/feet -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 36,71 L 28,81" />
+
+    <!-- Right alarm stand leg/feet -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 72,71 L 80,81" />
+
+    <!-- Clock dial main circle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M 54,28 A 24,24 0 1,1 53.99,28 Z" />
+
+    <!-- Horizon arc inside dial splitting the sun scale -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M 32,56 C 42,58 66,58 76,56" />
+
+    <!-- Sun disc rising from the horizon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9"
+        android:pathData="M 44,56 A 10,10 0 0,1 64,56 Z" />
+
+    <!-- Sun rays radiating outward -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 38,50 L 33,48" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 43,43 L 39,39" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 49,38 L 47,33" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 59,38 L 61,33" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 65,43 L 69,39" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 70,50 L 75,48" />
+
+    <!-- Digit 0 -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 39,63 H 42 V 71 H 39 Z" />
+
+    <!-- Digit 7 -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 45,63 H 49 L 46,71" />
+
+    <!-- Color separator dots (colon :) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 51.5,65 A 0.7,0.7 0 1,1 51.49,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 51.5,69 A 0.7,0.7 0 1,1 51.49,69 Z" />
+
+    <!-- Digit 0 -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 54,63 H 57 V 71 H 54 Z" />
+
+    <!-- Digit 0 -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 60,63 H 63 V 71 H 60 Z" />
+
+    <!-- WiFi signal waves below the time display -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M 51,75 A 4,4 0 0,1 57,75" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,77.5 A 0.5,0.5 0 1,1 53.99,77.5 Z" />
+
+</vector>
